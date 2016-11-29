@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Music Journalism portfolio",
-    "currentPage": "post-metal.html",
+    "currentPage": "post-rock.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -218,7 +218,7 @@
                 "overlayOpacity": "0.4",
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "<br><br><a href=\"http://arcticdrones.com/reviews/friedas-still-in-love-diez-inviernos/\" class=\"text-white\">FRIEDA'S STILL IN LOVE – DIEZ INVIERNOS</a>",
+                "title": "<br><br><a href=\"http://arcticdrones.com/reviews/friedas-still-in-love-diez-inviernos/\" class=\"text-white\" target=\"_blank\">FRIEDA'S STILL IN LOVE – DIEZ INVIERNOS</a>",
                 "showText": true,
                 "text": "\"Never before did music taste so much like a fata morgana of the place it came from. “Diez Inviernos” is an album that resonates estranged romanticism – ten long winters of looking out of a window, with eyes that go out of focus and limbs heavy as lead.\"",
                 "showButtons": false,
@@ -359,7 +359,7 @@
             "timeout": "7",
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/kadathultar-2000x1125-22.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -367,9 +367,24 @@
                 "overlayOpacity": "0.6",
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "<br><br><a href=\"http://arcticdrones.com/reviews/ultar-kadath/\" class=\"text-white\">ULTAR – KADATH</a>",
+                "title": "<br><br><a href=\"http://arcticdrones.com/reviews/ultar-kadath/\" target=\"_blank\" class=\"text-white\">ULTAR – KADATH</a>",
                 "showText": true,
                 "text": "\"This is Lovecraft with a Siberian edge – a wonderful journey over violent crests and through bursting snowstorms of melodic beauty. Kadath is merely Ultar’s debut record, but it stands for quality post-black metal. \"",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/diezinviernosfriedasstillinlove-2000x1125-27.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.6",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "<br><br><a href=\"http://arcticdrones.com/reviews/friedas-still-in-love-diez-inviernos/\" target=\"_blank\" class=\"text-white\">FRIEDA'S STILL IN LOVE – DIEZ INVIERNOS</a>",
+                "showText": true,
+                "text": "\"Never before did music taste so much like a fata morgana of the place it came from. “Diez Inviernos” is an album that resonates estranged romanticism – ten long winters of looking out of a window, with eyes that go out of focus and limbs heavy as lead.\"",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
@@ -702,7 +717,7 @@
             "timeout": "7",
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/kadathultar-2000x1125-22.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -710,9 +725,24 @@
                 "overlayOpacity": "0.6",
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "<br><br><a href=\"http://arcticdrones.com/reviews/ultar-kadath/\" class=\"text-white\">ULTAR – KADATH</a>",
+                "title": "<br><br><a href=\"http://arcticdrones.com/reviews/ultar-kadath/\" target=\"_blank\" class=\"text-white\">ULTAR – KADATH</a>",
                 "showText": true,
                 "text": "\"This is Lovecraft with a Siberian edge – a wonderful journey over violent crests and through bursting snowstorms of melodic beauty. Kadath is merely Ultar’s debut record, but it stands for quality post-black metal. \"",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/diezinviernosfriedasstillinlove-2000x1125-27.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.6",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "<br><br><a href=\"http://arcticdrones.com/reviews/friedas-still-in-love-diez-inviernos/\" target=\"_blank\" class=\"text-white\">FRIEDA'S STILL IN LOVE – DIEZ INVIERNOS</a>",
+                "showText": true,
+                "text": "\"Never before did music taste so much like a fata morgana of the place it came from. “Diez Inviernos” is an album that resonates estranged romanticism – ten long winters of looking out of a window, with eyes that go out of focus and limbs heavy as lead.\"",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }

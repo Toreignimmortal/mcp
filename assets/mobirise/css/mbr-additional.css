@@ -7,12 +7,6 @@
 
 
 
-
-
-
-
-
-
 body,
 input,
 textarea,
@@ -84,7 +78,7 @@ h6,
   font-family: 'Lora', serif;
 }
 .bg-primary {
-  background-color: #c9b3ff !important;
+  background-color: #c0a375 !important;
 }
 .bg-success {
   background-color: #90a878 !important;
@@ -99,8 +93,8 @@ h6,
   background-color: #f28281 !important;
 }
 .btn-primary {
-  background-color: #c9b3ff;
-  border-color: #c9b3ff;
+  background-color: #c0a375;
+  border-color: #c0a375;
   color: #ffffff;
 }
 .btn-primary:hover,
@@ -109,14 +103,14 @@ h6,
 .btn-primary:active,
 .btn-primary.active {
   color: #ffffff;
-  background-color: #9366ff;
-  border-color: #9366ff;
+  background-color: #a07e49;
+  border-color: #a07e49;
 }
 .btn-primary.disabled,
 .btn-primary:disabled {
   color: #ffffff !important;
-  background-color: #9366ff !important;
-  border-color: #9366ff !important;
+  background-color: #a07e49 !important;
+  border-color: #a07e49 !important;
 }
 .btn-secondary {
   background-color: #bfcecb;
@@ -220,8 +214,8 @@ h6,
 }
 .btn-primary-outline {
   background: none;
-  border-color: #814dff;
-  color: #814dff;
+  border-color: #8e7041;
+  color: #8e7041;
 }
 .btn-primary-outline:hover,
 .btn-primary-outline:focus,
@@ -229,14 +223,14 @@ h6,
 .btn-primary-outline:active,
 .btn-primary-outline.active {
   color: #ffffff;
-  background-color: #c9b3ff;
-  border-color: #c9b3ff;
+  background-color: #c0a375;
+  border-color: #c0a375;
 }
 .btn-primary-outline.disabled,
 .btn-primary-outline:disabled {
   color: #ffffff !important;
-  background-color: #c9b3ff !important;
-  border-color: #c9b3ff !important;
+  background-color: #c0a375 !important;
+  border-color: #c0a375 !important;
 }
 .btn-secondary-outline {
   background: none;
@@ -339,7 +333,7 @@ h6,
   border-color: #f28281 !important;
 }
 .text-primary {
-  color: #c9b3ff !important;
+  color: #c0a375 !important;
 }
 .text-success {
   color: #90a878 !important;
@@ -366,36 +360,36 @@ h6,
   background-color: #f28281;
 }
 .btn-social {
-  border-color: #c9b3ff;
+  border-color: #c0a375;
 }
 .btn-social:hover {
-  background: #c9b3ff;
+  background: #c0a375;
 }
 .mbr-company .list-group-item.active .list-group-text {
-  color: #c9b3ff;
+  color: #c0a375;
 }
 .mbr-footer p a,
 .mbr-footer ul a {
-  color: #c9b3ff;
+  color: #c0a375;
 }
 .mbr-footer-content li::before,
 .mbr-footer .mbr-contacts li::before {
-  background: #c9b3ff;
+  background: #c0a375;
 }
 .mbr-footer-content li a:hover,
 .mbr-footer .mbr-contacts li a:hover {
-  color: #c9b3ff;
+  color: #c0a375;
 }
 .lead a,
 .lead a:hover {
-  color: #c9b3ff;
+  color: #c0a375;
 }
 .lead blockquote {
-  border-color: #c9b3ff;
+  border-color: #c0a375;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
-  color: #ffffff;
+  color: #e8ddcd;
 }
 .mbr-plan-header.bg-success .mbr-plan-subtitle,
 .mbr-plan-header.bg-success .mbr-plan-price-desc {
@@ -415,7 +409,7 @@ h6,
 }
 .mbr-small-footer a,
 .mbr-gallery-filter li:hover {
-  color: #c9b3ff;
+  color: #c0a375;
 }
 .scrollToTop_wraper {
   opacity: 0 !important;
@@ -429,46 +423,4 @@ h6,
   text-align: center;
   color: #e8f400;
   font-family: 'Lora', serif;
-}
-#header3-8 .mbr-section-title,
-#header3-8 .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-8 H3 {
-  color: #000000;
-  text-align: right;
-  font-family: 'Lora', serif;
-  font-size: 20px;
-}
-#header1-9 .mbr-section-title {
-  font-family: 'Oxygen', sans-serif;
-  text-align: center;
-  color: #e8f400;
-}
-#header1-9 .mbr-section-lead {
-  text-align: left;
-  font-family: 'Oxygen', sans-serif;
-  font-size: 20px;
-}
-#msg-box8-5 .mbr-section-title,
-#msg-box8-5 p {
-  color: #fff;
-}
-#msg-box8-5 .mbr-section-title {
-  color: #232323;
-  font-family: 'Oxygen', sans-serif;
-}
-#features3-2 H5 {
-  color: #e8f400;
-}
-#header1-a .mbr-section-title {
-  color: #e8f400;
-  font-family: 'Oxygen', sans-serif;
-  text-align: center;
-}
-#header1-a .mbr-section-lead P {
-  text-align: left;
-  font-family: 'Oxygen', sans-serif;
-  font-size: 20px;
-  color: #efefef;
 }

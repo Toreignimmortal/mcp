@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Music Journalism portfolio",
-    "currentPage": "copywriting.html",
+    "currentPage": "post-rock.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -210,7 +210,7 @@
             "timeout": "7",
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/a4221443435-10-2000x2000-51.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -220,7 +220,22 @@
                 "showTitle": true,
                 "title": "<br><br><a href=\"http://arcticdrones.com/reviews/friedas-still-in-love-diez-inviernos/\" class=\"text-white\" target=\"_blank\">FRIEDA'S STILL IN LOVE – DIEZ INVIERNOS</a>",
                 "showText": true,
-                "text": "\"Never before did music taste so much like a fata morgana of the place it came from. “Diez Inviernos” is an album that resonates estranged romanticism – ten long winters of looking out of a window, with eyes that go out of focus and limbs heavy as lead.\"",
+                "text": "\"Never before did music taste so much like a fata morgana of the place it came from. Diez Inviernos is an album that resonates estranged romanticism – ten long winters of looking out of a window, with eyes that go out of focus and limbs heavy as lead.\"",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/aprilrain-2000x1068-9.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.4",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "<br><br><a href=\"http://fluttery.activehosted.com/index.php?action=social&amp;chash=d67d8ab4f4c10bf22aa353e27879133c.43\" target=\"_blank\" class=\"text-white\">APRIL RAIN – ONE IS GLAD TO BE OF SERVICE (REISSUE)</a>",
+                "showText": true,
+                "text": "Press release written for Fluttery Records:<br>\"To pursue a horizon that is forever receding, that is the destiny of every human being . What unites humanity as a species is not the way we look, think, or act, but it's simply the fact that we experience a continuous pain, a sexual drive that leads us to want more. With One Is Glad To Be Of Service, April Rain comprehends this universal pain; a pain that lies within us, which we find in nature and which makes us feel a yearning that unites us all in our humanity.\"<br>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
@@ -744,6 +759,14 @@
             "Theme"
           ],
           "_name": "slider",
+          "_styles": {
+            "H2": {
+              "font-size": "36px"
+            },
+            "P": {
+              "color": "#e8f400"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": 3,
@@ -771,15 +794,7 @@
             "showBullets": true
           },
           "_anchor": "slider-12",
-          "articleLayout": false,
-          "_styles": {
-            "H2": {
-              "font-size": "36px"
-            },
-            "P": {
-              "color": "#e8f400"
-            }
-          }
+          "articleLayout": false
         }
       ]
     },
@@ -1415,6 +1430,14 @@
             "Theme"
           ],
           "_name": "slider",
+          "_styles": {
+            "H2": {
+              "font-size": "36px"
+            },
+            "P": {
+              "color": "#e8f400"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": 3,
@@ -1442,15 +1465,7 @@
             "showBullets": true
           },
           "_anchor": "slider-13",
-          "articleLayout": false,
-          "_styles": {
-            "H2": {
-              "font-size": "36px"
-            },
-            "P": {
-              "color": "#e8f400"
-            }
-          }
+          "articleLayout": false
         }
       ]
     },

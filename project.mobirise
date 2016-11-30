@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Music Journalism portfolio",
-    "currentPage": "references.html",
+    "currentPage": "reviews.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -797,7 +797,7 @@
             "autoplay": true,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "timeout": 5,
+            "timeout": "7",
             "slides": [
               {
                 "active": false,
@@ -815,7 +815,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/friedasstillinlove-2000x2000-78.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -826,6 +826,36 @@
                 "title": "<div><br></div><div><br></div><a href=\"http://arcticdrones.com/reviews/friedas-still-in-love-diez-inviernos/\" target=\"_blank\" class=\"text-white\">FRIEDA'S STILL IN LOVE – DIEZ INVIERNOS</a>",
                 "showText": true,
                 "text": "\"Never before did music taste so much like a fata morgana of the place it came from. “Diez Inviernos” is an album that resonates estranged romanticism – ten long winters of looking out of a window, with eyes that go out of focus and limbs heavy as lead.\"",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/vektor-2000x2000-95.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.4",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "<p></p><div><br></div><div><br></div><a href=\"http://arcticdrones.com/reviews/vektor-terminal-redux/\" target=\"_blank\" class=\"text-white\">VEKTOR – TERMINAL REDUX</a><a href=\"http://arcticdrones.com/reviews/friedas-still-in-love-diez-inviernos/\" target=\"_blank\" class=\"text-white\"></a><p></p>",
+                "showText": true,
+                "text": "\"It’s all coming back to me now. Not Celine Dion, but that intense rush of adrenaline and power that is felt within the riffing and grooving of speed metal bands. [...] Thrash metal can still be relevant these days.\"",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/orsonhentschel-2000x2000-92.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.4",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "<p><p></p><div><br></div><div><br></div><a href=\"http://arcticdrones.com/reviews/orson-hentschel-feed-the-tape/\" target=\"_blank\" class=\"text-white\">ORSON HENTSCHEL – FEED THE TAPE</a><a href=\"http://arcticdrones.com/reviews/vektor-terminal-redux/\" target=\"_blank\" class=\"text-white\"></a><a href=\"http://arcticdrones.com/reviews/friedas-still-in-love-diez-inviernos/\" target=\"_blank\" class=\"text-white\"></a><p></p></p>",
+                "showText": true,
+                "text": "\"Rarely have I been touched more by an experimental record. [...] Feed the Tape is a veritable addition to the landscape of avant-garde art and sees Orson Hentschel at the front of a movement towards the future of music.\"",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }

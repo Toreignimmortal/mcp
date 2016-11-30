@@ -1590,12 +1590,12 @@
             "overlayOpacity": "0.2",
             "overlayColor": "#000",
             "contentAlign": "center",
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false
           },
-          "title": "FULL SCREEN INTRO",
-          "text": "<p><br></p><br><p>Death Metal Baboon (2011-2012, defunct)</p><br><p><span style=\"line-height: 1.5;\">The Monolith (2012)</span><br></p><br><p><span style=\"line-height: 1.5;\">Arctic Drones (2013-now)</span><br></p>",
+          "title": "RESUME",
+          "text": "<p><span style=\"line-height: 1.5;\"><br></span></p><p><span style=\"line-height: 1.5;\">Death Metal Baboon (2011-2012, defunct)</span><br></p><p><span style=\"line-height: 1.5;\">The Monolith (2012)</span><br></p><p><span style=\"line-height: 1.5;\">Arctic Drones (2013-now)</span><br></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_styles": {
             ".mbr-section-lead P": {

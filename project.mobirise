@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Music Journalism portfolio",
-    "currentPage": "progressiverock.html",
+    "currentPage": "copywriting.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -25,7 +25,7 @@
     "publishType": "github",
     "publishPath": "file:///Users/Robert/Documents/Art/Prose/Arctic%20Drones/Portfolio/MJP4",
     "versionFirst": "3.9.0",
-    "uniqCompNum": 39,
+    "uniqCompNum": 40,
     "versionPublish": "3.9.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -1409,6 +1409,48 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"post-rock.html\">post-rock</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"post-metal.html\">post-metal</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"progressiverock.html\">progressive rock</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ambientnoise.html\"><p>ambient/noise</p></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"portfolio.html\">portfolio</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"portfolio.html\">references</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"resume.html\">resume</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"mailto:robertwesterveld@gmail.com\">contact</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": 5,
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/aprilrain-2000x1068-3.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.4",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "<br><br><a href=\"http://fluttery.activehosted.com/index.php?action=social&amp;chash=d67d8ab4f4c10bf22aa353e27879133c.43\" target=\"_blank\" class=\"text-white\">APRIL RAIN – ONE IS GLAD TO BE OF SERVICE (REISSUE)</a>",
+                "showText": true,
+                "text": "<span style=\"font-size: 1.5rem; line-height: 1.5;\">Press release written for Fluttery Records: </span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">\"To pursue a horizon that is forever receding, that is the destiny of every human being . What unites humanity as a species is not the way we look, think, or act, but it's simply the fact that we experience a continuous pain, a sexual drive that leads us to want more. With One Is Glad To Be Of Service, April Rain comprehends this universal pain; a pain that lies within us, which we find in nature and which makes us feel a yearning that unites us all in our humanity.\"</span><br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider-13",
+          "articleLayout": false,
+          "_styles": {
+            "H2": {
+              "font-size": "36px"
+            },
+            "P": {
+              "color": "#e8f400"
+            }
+          }
         }
       ]
     },

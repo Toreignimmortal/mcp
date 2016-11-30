@@ -1094,6 +1094,12 @@ h6,
   font-family: 'Lora', serif;
   font-size: 14px;
 }
+#slider-13 H2 {
+  font-size: 36px;
+}
+#slider-13 P {
+  color: #e8f400;
+}
 
 
 #menu-j .hide-buttons .nav-btn {

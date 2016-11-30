@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Music Journalism portfolio",
-    "currentPage": "index.html",
+    "currentPage": "progressiverock.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -25,7 +25,7 @@
     "publishType": "github",
     "publishPath": "file:///Users/Robert/Documents/Art/Prose/Arctic%20Drones/Portfolio/MJP4",
     "versionFirst": "3.9.0",
-    "uniqCompNum": 38,
+    "uniqCompNum": 39,
     "versionPublish": "3.9.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -743,35 +743,40 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "header1",
-          "_anchor": "header1-11",
+          "_name": "slider",
           "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/thepineapplethief-2000x2000-29.png",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.4",
-            "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": 5,
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/thepineapplethief-2000x2000-36.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.4",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "<br><br>THE PINEAPPLE THIEF – YOUR WILDERNESS",
+                "showText": true,
+                "text": "\"Giving credit where credit is due, The Pineapple Thief have absolutely done a fine job with this record. [...] Your Wilderness is an intriguing, well-written record that might be enjoyed casually, but it does the album a disservice to not regard it within the scope of its theme.\"",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": true
           },
-          "title": "<br><br><a href=\"http://arcticdrones.com/reviews/the-pineapple-thief-your-wilderness/\" target=\"_blank\" class=\"text-white\">THE PINEAPPLE THIEF – YOUR WILDERNESS</a>",
-          "text": "\"Giving credit where credit is due, The Pineapple Thief have absolutely done a fine job with this record. [...] Your Wilderness is an intriguing, well-written record that might be enjoyed casually, but it does the album a disservice to not regard it within the scope of its theme.\"",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_anchor": "slider-12",
+          "articleLayout": false,
           "_styles": {
-            ".mbr-section-title": {
+            "H2": {
               "font-size": "36px"
             },
-            ".mbr-section-lead": {
+            "P": {
               "color": "#e8f400"
             }
           }

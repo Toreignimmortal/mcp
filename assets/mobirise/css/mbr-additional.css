@@ -804,7 +804,8 @@ h6,
 
 #slider-p H2 {
   text-align: center;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Oxygen', sans-serif;
+  color: #ffffff;
 }
 #slider-p P {
   text-align: center;
@@ -1168,9 +1169,7 @@ h6,
   font-family: 'Lora', serif;
   font-size: 14px;
 }
-#header1-15 .mbr-section-lead P {
-  font-size: 24px;
-  text-align: center;
+#slider-16 P {
   color: #e8f400;
 }
 

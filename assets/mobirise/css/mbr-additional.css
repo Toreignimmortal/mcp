@@ -1168,6 +1168,11 @@ h6,
   font-family: 'Lora', serif;
   font-size: 14px;
 }
+#header1-15 .mbr-section-lead P {
+  font-size: 24px;
+  text-align: center;
+  color: #e8f400;
+}
 
 
 #menu-k .hide-buttons .nav-btn {

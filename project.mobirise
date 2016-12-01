@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Music Journalism portfolio",
-    "currentPage": "resume.html",
+    "currentPage": "portfolio.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -177,7 +177,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"post-rock.html\">post-rock</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"post-metal.html\">post-metal</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"progressiverock.html\">progressive rock</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ambientnoise.html\"><p>ambient/noise</p></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"portfolio.html\">portfolio</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"portfolio.html\">references</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"resume.html\">resume</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"mailto:robertwesterveld@gmail.com\">contact</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"post-rock.html\">post-rock</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"post-metal.html\">post-metal</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"progressiverock.html\">progressive rock</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ambientnoise.html\"><p>ambient/noise</p></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"portfolio.html\">portfolio</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"references.html\">references</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"resume.html\">resume</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"mailto:robertwesterveld@gmail.com\">contact</a></li>"
         }
       ]
     },
@@ -835,7 +835,7 @@
                 "overlayOpacity": "0.5",
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "<br>REVIEWS",
+                "title": "<br><a href=\"reviews.html\" class=\"text-white\">REVIEWS</a>",
                 "showText": true,
                 "text": "Constructive criticism and due praise",
                 "showButtons": false,
@@ -1575,6 +1575,11 @@
             "Theme"
           ],
           "_name": "slider",
+          "_styles": {
+            "P": {
+              "color": "#e8f400"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": 3,
@@ -1632,12 +1637,7 @@
             "showBullets": true
           },
           "_anchor": "slider-16",
-          "articleLayout": false,
-          "_styles": {
-            "P": {
-              "color": "#e8f400"
-            }
-          }
+          "articleLayout": false
         }
       ]
     },
